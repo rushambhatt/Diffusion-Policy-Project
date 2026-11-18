@@ -1,0 +1,20 @@
+{
+ "run_name": "N050_poolB_lookup",
+ "method": "lookup",
+ "seed": null,
+ "total_steps": 0,
+ "train_time_min": 0,
+ "mean_score": 0.4981925439885653,
+ "success_rate": 0.0,
+ "scores": [
+  0.0,
+  0.9938,
+  0.0,
+  0.9989
+ ],
+ "n_demos": 50,
+ "pool": "B",
+ "eval_episodes": 4,
+ "gpu": "NVIDIA RTX 4000 Ada Generation",
+ "timestamp": "2026-11-17T16:49:11"
+}
