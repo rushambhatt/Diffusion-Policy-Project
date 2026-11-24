@@ -1,0 +1,21 @@
+{
+ "run_name": "N010_poolB_seed2",
+ "n_demos": 10,
+ "pool": "B",
+ "seed": 2,
+ "total_steps": 100000,
+ "train_episodes": [
+  8,
+  28,
+  29,
+  61,
+  128,
+  166,
+  171,
+  183,
+  187,
+  196
+ ],
+ "repo_commit": "5ba07ac6661db573af695b419a7947ecb704690f",
+ "quick_test": false
+}
